@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(71, 50, 50);
+}
+.Middle section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container{
+    background-color: rgba(146, 151, 188, 0.882);
+    border: 5px solid rgb(12, 11, 11);
+    padding: 50px;
+    margin: 20px  
+}
+.achievement{
+    background-color: rgb(49, 58, 58);
+    border: 5px solid white;
+    padding: 50px;
+    margin: 20px
+}
+h1{
+    color: rgb(1, 221, 255) ;
+    font-size: 50px;
+}
+h2{
+    color: green;
+    font-size: 50px;
+}
+h5{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
