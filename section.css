@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(35, 27, 27);
+}
+h1{
+
+    font-size: 40px;
+}
+.container{
+    background-color: rgb(238, 215, 215);
+    margin:10px;
+    border: 2px solid rgb(199, 191, 191);
+    padding: 50px;
+}
+
+
+.container-1{
+    background-color: rgb(122, 76, 76);
+    margin:10px;
+    border: 4px solid rgb(247, 243, 243);
+    padding: 50px;
+    
+    
+}
+h2{
+    color: aquamarine;
+    font-size: 40px;
+}
+h5{
+    color: aliceblue;
+
+}
+h3{
+    color: aliceblue;
+}
+
