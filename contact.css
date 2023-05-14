@@ -1,12 +1,29 @@
 .contact {
+        position: relative;
+        top:170px; 
+        left: 47%; 
+        padding-bottom: 50px;
+       
     
-        /* color:white; */
-        
-        position: fixed;
-         
-        left: 50%; 
-        /* /* margin-top: -100px; */
-        /* margin-left: -200px; */ 
-    /* text-align: center; */
-    
+}
+
+body {
+    background-color: grey;
+    opacity: 0.9;
+}
+
+hr {
+    border-top-style: solid;
+    border-top-width: 3px;
+    border-top-color:black;
+    width: 17%;
+   
+}
+
+h2 {
+    padding-bottom: 55px;
+   
+}
+button:focus {
+    outline: 3px solid blue;
 }
